@@ -11,3 +11,8 @@ code-server --install-extension yzhang.markdown-all-in-one
 
 # Install the VS code proxy
 pip install -e.
+
+# Create work directory and switch into it
+mkdir work
+export CODE_WORKINGDIR=./work
+echo "export CODE_WORKINGDIR=${CODE_WORKINGDIR}"       >> .profile
