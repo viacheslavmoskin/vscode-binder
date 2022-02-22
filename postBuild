@@ -8,6 +8,7 @@ jupyter lab build
 code-server --install-extension ms-python.python
 code-server --install-extension yzane.markdown-pdf
 code-server --install-extension yzhang.markdown-all-in-one
+code-server --install-extension fcrespo82.markdown-table-formatter
 
 # Install the VS code proxy
 pip install -e.
