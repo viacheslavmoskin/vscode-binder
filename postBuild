@@ -17,3 +17,6 @@ pip install -e.
 mkdir work
 export CODE_WORKINGDIR=./work
 echo "export CODE_WORKINGDIR=${CODE_WORKINGDIR}"       >> .profile
+
+# Add additional path for tools
+PATH=$PATH:~/shared/tools
