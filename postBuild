@@ -20,3 +20,4 @@ echo "export CODE_WORKINGDIR=${CODE_WORKINGDIR}"       >> .profile
 
 # Add path to k8s tools
 export PATH=$PATH:~/shared/tools
+echo "export PATH=$PATH:~/shared/tools"   >> .profile
