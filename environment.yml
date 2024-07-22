@@ -4,3 +4,8 @@ dependencies:
   - numpy
   - jupyter-server-proxy
   - code-server >=3.2
+  - poetry
+  - pytest
+  - flake8
+  - black
+  
