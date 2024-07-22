@@ -1,6 +1,7 @@
 channels:
   - conda-forge
 dependencies:
+  - python=3.10
   - numpy
   - jupyter-server-proxy
   - code-server >=3.2
