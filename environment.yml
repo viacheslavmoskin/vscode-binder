@@ -9,4 +9,3 @@ dependencies:
   - pytest
   - flake8
   - black
-  - azure-cli-core
